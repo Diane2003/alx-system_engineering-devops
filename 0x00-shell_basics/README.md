@@ -6,3 +6,4 @@ bring me home
 list the files`
 my first directory
 move the file
+first dir delete
