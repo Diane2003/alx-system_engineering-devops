@@ -9,3 +9,4 @@ move the file
 first dir delete
 back in files
 lists of files
+symbolic link
