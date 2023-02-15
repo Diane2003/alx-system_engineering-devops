@@ -9,4 +9,5 @@ read third lines
 cwd content
 readme
 read me
+d me
 
