@@ -10,4 +10,5 @@ cwd content
 readme
 read me
 d me
+i am a student
 
