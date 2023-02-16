@@ -10,4 +10,4 @@ first dir delete
 back in files
 lists of files
 symbolic link
-copyinan advanced tasread mread meekg
+copyinan advanced tasread mread mread me hereeekg
